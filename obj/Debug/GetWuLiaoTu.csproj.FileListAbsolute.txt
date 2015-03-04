@@ -1,0 +1,6 @@
+C:\Users\shenhua\Documents\Visual Studio 2013\Projects\GetWuLiaoTu\GetWuLiaoTu\bin\Debug\GetWuLiaoTu.exe.config
+C:\Users\shenhua\Documents\Visual Studio 2013\Projects\GetWuLiaoTu\GetWuLiaoTu\bin\Debug\GetWuLiaoTu.exe
+C:\Users\shenhua\Documents\Visual Studio 2013\Projects\GetWuLiaoTu\GetWuLiaoTu\bin\Debug\GetWuLiaoTu.pdb
+C:\Users\shenhua\Documents\Visual Studio 2013\Projects\GetWuLiaoTu\GetWuLiaoTu\obj\Debug\GetWuLiaoTu.csprojResolveAssemblyReference.cache
+C:\Users\shenhua\Documents\Visual Studio 2013\Projects\GetWuLiaoTu\GetWuLiaoTu\obj\Debug\GetWuLiaoTu.exe
+C:\Users\shenhua\Documents\Visual Studio 2013\Projects\GetWuLiaoTu\GetWuLiaoTu\obj\Debug\GetWuLiaoTu.pdb
